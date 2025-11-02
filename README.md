@@ -4,11 +4,7 @@
 
 Olá mundo! Me chamo Diego Ferreira, tenho 26 anos e sou natural de São Paulo/Brasil. Concluí bacharelado em Engenharia Eletrica na universidade Nove de Julho, tenho Tecnologo em mecanico de Manutençao de Aeronaves. Atualmente, estou cursando Sistema da Informaçao na Anhembi Morumbi. Sou apaixonado por tecnologia, procesos e fluxos de trabalho.
 
-<p align="left">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+<
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
